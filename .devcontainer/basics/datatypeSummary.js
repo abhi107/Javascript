@@ -20,3 +20,10 @@
     const myFunction = function(){
         console.log("hello world!!!")
     }
+
+
+    // ################################
+
+    // Stack Memory(Primitive), Heap (Non-Primitive)
+
+    
